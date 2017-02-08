@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+#- title: Essays
+#  url: /essays/
+
+- title: Blog
+  url: /blog/
+
+- title: Resume
+  url: https://austinmcconnell.github.io/resume
+
+- title: Search
+  url: /search/
