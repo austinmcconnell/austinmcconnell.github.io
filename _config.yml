@@ -5,7 +5,7 @@ locale: en_US
 description: Exploring Interesting Projects With Python
 logo: bio-photo-verona.jpg
 search: true
-url: http://localhost:4000
+url: https://austinmcconnell.github.io
 
 # Jekyll configuration
 
