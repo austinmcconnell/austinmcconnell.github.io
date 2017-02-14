@@ -5,7 +5,7 @@ categories: blog
 date: 2017-02-13 20:30:00 -0600
 ---
 
-Mortgage is a simple package that aims to make understanding the lifetime cost of a mortage easier to understand.
+Mortgage is a simple package that aims to make the lifetime cost of a mortage easier to understand.
 
 Version 1.0.0 is out on PyPI and can be installed with
 
