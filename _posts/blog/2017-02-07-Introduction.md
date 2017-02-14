@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "A Little Bit About Me"
-modified:
 categories: blog
-excerpt:
-tags: []
-image:
-  feature:
-date: 2017-02-07
+tags: [Python, PyTexas, PyCon]
+date: 2017-02-07 18:00:00 -0600
 ---
 
 Howdy! I graduated from Texas A&M University in 2011 with an Aerospace Engineering degree and quickly discovered a knack for coding. I love the freedom found in writing software that can dramatically increase efficiency and automate the boring stuff.
