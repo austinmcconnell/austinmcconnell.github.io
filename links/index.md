@@ -10,3 +10,6 @@ When I come across a fantastic talk, or a great article that I want to remember 
 ### Talks
 * [Beyond PEP8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Super Considered Super!](https://www.youtube.com/watch?v=EiOglTERPEo)
+
+### Articles
+* [Python Packaging](http://www.aosabook.org/en/packaging.html)
