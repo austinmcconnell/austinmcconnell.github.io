@@ -13,3 +13,4 @@ When I come across a fantastic talk, or a great article that I want to remember 
 
 ### Articles
 * [Python Packaging](http://www.aosabook.org/en/packaging.html)
+* [How To Calculate Big O](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
